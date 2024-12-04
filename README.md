@@ -23,4 +23,4 @@
 <img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/><img width="50" height="50" src="https://img.icons8.com/dusk/64/docker.png" alt="docker"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" alt="external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo"/>
 
 ### operating system
-<img width="50" height="50" src="https://img.icons8.com/color/48/windows-11.png" alt="windows-11"/><img width="50" height="50" src="https://img.icons8.com/metro/26/ubuntu.png" alt="ubuntu"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/windows-11.png" alt="windows-11"/><img width="50" height="50" src="https://img.icons8.com/metro/26/ubuntu.png" alt="ubuntu"/><img src="https://github.com/coderMerx/coderMerx/blob/864c473136a73b9fc2d36578169395c4ea10ca57/kali.png" width="50" height="50">
