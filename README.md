@@ -24,3 +24,5 @@
 
 ### operating system
 <img width="50" height="50" src="https://img.icons8.com/color/48/windows-11.png" alt="windows-11"/>  <img width="50" height="50" src="https://img.icons8.com/metro/26/ubuntu.png" alt="ubuntu"/>  <img src="https://github.com/coderMerx/coderMerx/blob/864c473136a73b9fc2d36578169395c4ea10ca57/kali.png" width="50" height="50">
+
+### design Software IS Used 
