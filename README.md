@@ -7,7 +7,7 @@
       <td width="10%">
   <h1> 𝗜'𝗺 Krishna Kumar E.S | Hacker <img src="https://raw.githubusercontent.com/Narayanan-info/Narayanan-info/main/g1.gif" width="100" height="50">
        </h1>
-- 🔭 I’m currently working on Security Engineer & Secure Code Developer | Reviewer <br>
+- 🔭 I’m searching job on Security Engineer & Secure Code Developer | Reviewer <br>
 - 🌱 Worked Backend Tech For Secure Code - [ Python , NodeJs ] <br>
 - 👯 I’m looking to collaborate on Security Testing & Secure Code Dev <br>
 - ❤ I love doing **Bug Bounty** For Hobby 🚀 <br>
